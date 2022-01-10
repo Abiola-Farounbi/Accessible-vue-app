@@ -1,3 +1,4 @@
-# accessible-vue-app
+# An example of Accessible Vue App
 
-- Live site [Here](https://accessible-vue-app.netlify.app/)
+This repo contains the demo for the implementation of accessible features for a vue app.
+
